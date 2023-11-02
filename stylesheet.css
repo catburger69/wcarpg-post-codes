@@ -4,7 +4,7 @@
 
 @font-face {
     font-family: 'svthinregular';
-    src: url('svthin-webfont.woff2') format('woff2'),
+    src: url('https://github.com/catburger69/wcarpg-post-codes/blob/292474f5d013e472a255acdf34918d1b43f5db3d/svthin-webfont.woff2') format('woff2'),
          url('https://github.com/catburger69/wcarpg-post-codes/blob/09bc21b707d7a87e22cfd15484d7139e7eb84763/svthin-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
